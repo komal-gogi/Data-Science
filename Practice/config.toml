@@ -1,0 +1,13 @@
+# config.toml
+title = "Example Configuration"
+
+[owner]
+name = "Alice Brown"
+email = "alice.brown@example.com"
+dob = 1985-02-25T09:30:00Z
+
+[database]
+hostname = "db.example.com"
+port = 5432
+username = "dbuser"
+password = "s3cr3t"
